@@ -4,4 +4,4 @@ main: com.semivanilla.endrespawn.EndRespawn
 api-version: 1.18
 commands:
   endrespawn:
-    permission: 'endrespawn'
+    permission: 'endrespawn.use'
