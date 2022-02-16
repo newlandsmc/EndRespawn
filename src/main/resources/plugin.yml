@@ -1,0 +1,7 @@
+name: EndRespawn
+version: '${project.version}'
+main: com.semivanilla.endrespawn.EndRespawn
+api-version: 1.18
+commands:
+  endrespawn:
+    permission: 'endrespawn'
